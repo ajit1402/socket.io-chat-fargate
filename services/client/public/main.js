@@ -19,9 +19,9 @@ var store = {
 
     messages: {
       general: [],
-      marketing: [],
-      it: [],
-      finance: []
+      ecs: [],
+      eks: [],
+      fargate: []
     },
 
     typing: [],
